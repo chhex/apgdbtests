@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    apgdb (0.1.0-java)
+    sequel (5.35.0)
+
+PLATFORMS
+  java
+
+DEPENDENCIES
+  apgdb
+  sequel
+
+BUNDLED WITH
+   2.1.4
