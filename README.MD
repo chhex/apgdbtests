@@ -18,11 +18,12 @@ Zielumgebung ausführen
 
 ### Anforderungen, nicht abschliessend
 
-- Sicherheit (Autorisierung, Authentifizierung)
 - Standardisierung , bzgl Aufbau und Verwendung
+- Sicherheit (Autorisierung, Authentifizierung)
 - Wiederverwendbarkeit wird unterstützt (Modularisierung)
 - Packaging : Prozess für Deployment resp Publishing und Installation
 - Versionierung 
+- Opensource Libraries 
 - Dynamische Sprache vs Starke Typsierung
 
 ### Kandidaten
