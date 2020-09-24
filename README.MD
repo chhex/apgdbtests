@@ -10,19 +10,21 @@ Zielumgebung ausführen
 
 - Entwicklungshilfen
 - Testscripts
-- Automatisierte Ablaufe
-- Gluecode
-- Monitoring
-- Devop Scripts
-- Dynamische Sprache vs Starke Typsierung
+- Automatisierte Test- und Entwicklungs- Ablaufe
+- Gluecode (Konfiguration, Bootstrapping)
+- Monitoring Scripts
+- Devop Scripts 
+
 
 ### Anforderungen, nicht abschliessend
 
-- Sicherheit (Autorisierung, Authentifizierung)
 - Standardisierung , bzgl Aufbau und Verwendung
-- Wiederverwendbar (Modularisierung)
-- Versionierung
-- Packaging : Prozess fuer Installation
+- Sicherheit (Autorisierung, Authentifizierung)
+- Wiederverwendbarkeit wird unterstützt (Modularisierung)
+- Packaging : Prozess für Deployment resp Publishing und Installation
+- Versionierung 
+- Opensource Libraries 
+- Dynamische Sprache vs Starke Typsierung
 
 ### Kandidaten
 
